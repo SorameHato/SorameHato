@@ -1,6 +1,7 @@
 ## Jeon Hojin(a.k.a Hato Sorame)'s Profile
-* President of SkyWare Individual Programming Team (Since April 30 2011, 12th Anniv.)<br>[Twitter @SkyWare20110430](https://twitter.com/skyware20110430)
-* Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0), [Rep. of Sky](http://s-r.ze.am), etc
+* President of SkyWare Individual Programming Team (Since April 30 2011, 12th Anniv.)<br>[Twitter @SkyWare20110430](https://twitter.com/skyware20110430), [SKyWareNET](http://ghwls030306.godohosting.com/SWareNET/index.html)
+* Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0)(Discord/KakaoTalk), [Rep. of Sky](http://s-r.ze.am), etc
+* Native Developer interested in .NET Core and Python
 <!--
 **SorameHato/SorameHato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
