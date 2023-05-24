@@ -3,6 +3,8 @@
 * Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0)(Discord/KakaoTalk), [Rep. of Sky](http://s-r.ze.am), etc
 * Native Developer interested in .NET Core and Python
 * Personal SNS : [Twitter](https://twitter.com/BucketList_Hato)
+* 🔭 Working on : TUI based on Python, Arona Version of SeolRe Bot (Arona Bot), OpenBVE Plugin
+* 📫 Contact: ghwls030306@s-r.ze.am
 <!--
 **SorameHato/SorameHato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
