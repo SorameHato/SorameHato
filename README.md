@@ -2,8 +2,8 @@
 * :office: President of SkyWare Individual Programming Team (Since April 30 2011, 12th Anniv.)<br>　　[Twitter @SkyWare20110430](https://twitter.com/skyware20110430), [SKyWareNET](http://ghwls030306.godohosting.com/SWareNET/index.html)
 * :computer: Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0)(Discord/KakaoTalk), [Rep. of Sky](http://s-r.ze.am), etc
 * :page_facing_up: Native Developer interested in .NET Core and Python
-* :iphone: Personal SNS : [Twitter](https://twitter.com/BucketList_Hato)
-* 🔭 Working on : TUI based on Python, Arona Version of SeolRe Bot (Arona Bot), OpenBVE Plugin
+* :iphone: Personal SNS : [Twitter](https://twitter.com/Hato0832)
+* 🔭 Working on : TUI based on Python, HanulBot/EluBot, OpenBVE Plugin
 * 📫 Contact: ghwls030306@s-r.ze.am
 <!--
 **SorameHato/SorameHato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
