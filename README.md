@@ -1,5 +1,5 @@
 ## Hato's Profile
-* :office: President of SkyWare Individual Programming Team (Since April 30 2011, 13th Anniv.)<br>　　It's an individual company, not a real company but I'm doing my best to establish SkyWare to real company.
+* :office: President of SkyWare Individual Programming Team (Since April 30 2011, 13th Anniv.)<br>　　It's an individual team, not a real company but I'm doing my best to establish SkyWare to real company.
 * :computer: Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0)(Discord/KakaoTalk), Rep. of Sky(A virtual nation on Minecraft / using many original modes developed by me), HanulBot/EluBot/SieunBot(A Discord Bot for Skyflow's server), etc.
 * :page_facing_up: Native Developer interested in .NET Core and Python
 * :iphone: Personal SNS : [Twitter](https://twitter.com/SorameHato)
