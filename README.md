@@ -1,9 +1,9 @@
 ## Hato's Profile
-* :office: President of SkyWare Individual Programming Team (Since April 30 2011, 12th Anniv.)<br>　　[Twitter @SkyWare20110430](https://twitter.com/skyware20110430), [SKyWareNET](http://ghwls030306.godohosting.com/SWareNET/index.html)<br>　　It's an individual company, not a real company but I'm doing my best to establish SkyWare to real company.
-* :computer: Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0)(Discord/KakaoTalk), Rep. of Sky(A virtual nation on Minecraft / using many original modes developed by me), HanulBot/EluBot(A Discord Bot for Skyflow's server), etc.
+* :office: President of SkyWare Individual Programming Team (Since April 30 2011, 13th Anniv.)<br>　　It's an individual company, not a real company but I'm doing my best to establish SkyWare to real company.
+* :computer: Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0)(Discord/KakaoTalk), Rep. of Sky(A virtual nation on Minecraft / using many original modes developed by me), HanulBot/EluBot/SieunBot(A Discord Bot for Skyflow's server), etc.
 * :page_facing_up: Native Developer interested in .NET Core and Python
-* :iphone: Personal SNS : [Twitter](https://twitter.com/Hato0832)
-* 🔭 Working on : TUI library based on Python, HanulBot/EluBot, OpenBVE Plugin
+* :iphone: Personal SNS : [Twitter](https://twitter.com/SorameHato)
+* 🔭 Working on : TUI library based on Python, HanulBot/SieunBot, OpenBVE Plugin
 * 📫 Contact: ghwls030306@s-r.ze.am
 <!--
 **SorameHato/SorameHato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
