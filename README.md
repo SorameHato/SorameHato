@@ -3,8 +3,8 @@
 * :computer: Developer of [SeolRe Bot](https://github.com/SorameHato/SeolReBot-3.0)(Discord/KakaoTalk), Rep. of Sky(A virtual nation on Minecraft / using many original modes developed by me), HanulBot/EluBot/SieunBot(A Discord Bot for Skyflow's server), etc.
 * :page_facing_up: Native Developer interested in .NET Core and Python
 * :iphone: Personal SNS : [Twitter](https://twitter.com/SorameHato)
-* 🔭 Working on : Last update for HanulBot/SieunBot (I'm junior of univ.)
-* 📫 Contact: ghwls030306@s-r.ze.am
+* 🔭 Working on : Nothing (I'm junior at Computer Science & Engeneering department of university, now studing university major)
+* 📫 Contact: SorameHato@protonmail.ch
 <!--
 **SorameHato/SorameHato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
